@@ -1,0 +1,6 @@
+{
+  "name": "SoundBoost",
+  "description": "Native macOS 14.2+ menu bar volume booster and per-app audio mixer using CoreAudio process taps, with an interactive web UI preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
